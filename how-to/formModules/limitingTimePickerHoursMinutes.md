@@ -35,6 +35,7 @@ namespace Modules
                 .MinimumHour("9")
                 .MaximumHour("16")
                 .MinuteIntervals("10");
+                
             Field(x => x.ShiftEnd).Control(ControlType.DateTimePicker);
                 .MinimumMinute("10")
                 .MaximumMinute("50")
