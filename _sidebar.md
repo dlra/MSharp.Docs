@@ -107,7 +107,7 @@
     * [Adding a file upload field](how-to\formModules\addingFileUploadField.md)
     * [Default values (property setter)](\how-to\formModules\defaultValuesPropertySetter.md)
     * [Watermark text](how-to/formModules/watermarkText.md)
-    * Custom form elements 
+    * [Custom form elements](how-to/formModules/customFormElements.md)
     * Custom data load/save
     * Custom list control source
     
