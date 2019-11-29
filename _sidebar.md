@@ -118,7 +118,7 @@
     * Multiple buttons from data source
     * Transactions
     * Trigerring/skipping validation
-    * Default button
+    * [Default button](how-to\buttonsLinks\defaultButton.md)
     * Button actions
     * Hiding/showing buttons
     
