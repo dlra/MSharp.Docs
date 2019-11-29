@@ -1,4 +1,4 @@
-# Adding a Button
+# Custom Location for a Button
 
 ## Problem
 
@@ -10,7 +10,7 @@ Sometimes however, you may require atypical button placement in your module. Let
 
 To customise a button location in your UI module, first add your `ModuleButton` (discussed [here](addingButton.md)) in your module constructor. When customising location, placement of the instantiating method is unimportant as it usually is&#x2014;you can add it to the beginning, the end or somewhere in the middle of your constructor code.
 
-To locate the button, simply mark up the button name (which will be the button text compounded into Pascal case) using the syntax `[#BUTTONS(MyButton)#]`.
+To locate the button, simply mark up the button name (which will be the button text compounded into Pascal case) using the syntax `[#BUTTONS(MyButton)#]` and integrate it in any module method which usually takes content as an input parameter.
 
 #### Example
 
