@@ -116,10 +116,10 @@
     * [Custom location for a button](how-to\buttonsLinks\CustomLocationForButton.md)
     * Button per row
     * Multiple buttons from data source
-    * Transactions
     * Trigerring/skipping validation
     * [Default button](how-to\buttonsLinks\defaultButton.md)
-    * Button actions
+    * [Button actions](how-to\buttonsLinks\buttonActions.md)
+    * Transactions
     * Hiding/showing buttons
     
 
