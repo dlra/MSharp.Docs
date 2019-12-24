@@ -14,7 +14,7 @@ The `Workflow` class encapsulates many methods that codify a large amount of the
 
 * Navigation and window: `Go()` (for same-window navigation), `Popup()`, `Reload()`, `ReturnToPreviousPage()`, `CloseModal`, etc;
 * Control flow: `If()`, `ElseIf()`, `Else()`;
-* Database: `SaveInDatabase()`, `RunInTransaction()` (transactions are covered [HERE](#)).
+* Database: `SaveInDatabase()`, `RunInTransaction()` (transactions are covered [HERE](transactions.md)).
 
 For atypical processes/workflows, use the `CSharp()` method and add your code as a string.
 

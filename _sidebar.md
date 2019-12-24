@@ -119,7 +119,7 @@
     * Trigerring/skipping validation
     * [Default button](how-to\buttonsLinks\defaultButton.md)
     * [Button actions](how-to\buttonsLinks\buttonActions.md)
-    * Transactions
+    * [Transactions](how-to\buttonsLinks\transactions.md)
     * Hiding/showing buttons
     
 
